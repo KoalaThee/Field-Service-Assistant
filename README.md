@@ -1,11 +1,10 @@
 # Field Service Assistant
 **Field Service Assistant** is an **AI-powered** assistant designed to help Field Service Engineers with technical queries, troubleshooting, and maintenance procedures via the **LINE application**. As well as providing relevant general and statistical information about field service operations. The Sever is hosted on **Google Cloud Run**.
 
-<p align="center"><img src="" width="300"/></p>
-<p align="center"><i><b>Figure 1:</b> Demonstration </i></p><br>
-
-<p align="center"><img src="" width="300"/></p>
-<p align="center"><i><b>Figure 2:</b> LINE Application Interface </i></p><br>
+<p align="center"><img src="https://github.com/KoalaThee/Field-Service-Assistant/blob/de44ab94ad45230d5d7b5b01f1e83489236bed33/FSA_Demonstration.gif" width="300"/></p>
+<p align="center"><i><b>Figure 1:</b> Demonstration </i></p>
+<p align="center"><img src="https://github.com/KoalaThee/Field-Service-Assistant/blob/de44ab94ad45230d5d7b5b01f1e83489236bed33/FSA_Line%20Interface.jpg" width="1000"/></p>
+<p align="center"><i><b>Figure 2:</b> LINE Application Interface </i></p>
 
 ## **Solution Overview**
 
@@ -63,13 +62,13 @@
 
 ### **Architecture Diagram**
 <p align="center">
-  <img src="" width="1000" alt="Architectural Diagram"/>
+  <img src="https://github.com/KoalaThee/Field-Service-Assistant/blob/de44ab94ad45230d5d7b5b01f1e83489236bed33/FSA_Architecture%20Diagram.jpg" width="1000" alt="Architectural Diagram" width="1000" alt="Architectural Diagram"/>
 </p>
 <p align="center"><i><b>Figure 3:</b> Architectural Diagram</i></p>
 
 ### **Data Flow Diagram**
 <p align="center">
-  <img src="" width="1000" alt="Architectural Diagram"/>
+  <img src="https://github.com/KoalaThee/Field-Service-Assistant/blob/de44ab94ad45230d5d7b5b01f1e83489236bed33/FSA_Data%20Flow%20Diagram.jpg" width="700"/>
 </p>
 <p align="center"><i><b>Figure 4:</b> Data Flow Diagram</i></p>
 
